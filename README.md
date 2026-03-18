@@ -3,7 +3,7 @@
 A modern and responsive **gift-oriented landing page**, inspired by platforms like Giftly, designed using **HTML**, **Tailwind CSS**, and **JavaScript**. Perfect for showcasing gifting options, promotions, and a seamless user interface.
 
 [![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://giftly-01.netlify.app/)  
-[![Source Code](https://img.shields.io/badge/💻_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amdadislam01/?tab=repositories)
+[![Source Code](https://img.shields.io/badge/💻_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Spark0914724/gift-ecommerce)
 
 ---
 
@@ -49,7 +49,7 @@ Key inspirations include:
 
 ```bash
 # Clone this repository
-git clone https://github.com/amdadislam01/Name-of-Your-Repo.git
+git clone https://github.com/Spark0914724/gift-ecommerce.git
 
 # Navigate into project directory
 cd Name-of-Your-Repo
