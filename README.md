@@ -45,7 +45,7 @@ Key inspirations include:
 
 ---
 
-##  How to Run Locally
+##  How to Run Locly
 
 ```bash
 # Clone this repository
