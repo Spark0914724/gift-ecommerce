@@ -13,7 +13,7 @@ A modern and responsive **gift-oriented landing page**, inspired by platforms li
 -  Responsive layout across devices
 -  Highlighted sections for offers, categories, or product shots
 -  Smooth scroll and modern UI aesthetics
--  Fast lightweight, built with HTML, Tailwind, and minimal JS
+-  Fast and lightweight, built with HTML, Tailwind, and minimal JS
 
 ---
 
